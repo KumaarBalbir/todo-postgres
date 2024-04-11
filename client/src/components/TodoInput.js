@@ -18,7 +18,7 @@ const TodoInput = () => {
   };
   return (
     <Fragment>
-      <h1 className="text-center my-5">Pern Todo List</h1>
+      <h1 className="text-center my-5">Todo List App</h1>
 
       <form className="d-flex" onSubmit={onSubmitForm}>
         <input
